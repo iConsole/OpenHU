@@ -1,16 +1,12 @@
 # headunit
-Headunit for Android Auto (tm)
+OpenHU Project
 
-A new car or a $600+ headunit is NOT required to enjoy the integration and distraction reduced environment of Android Auto.
+The OpenHU Project is a continuation of the original project "Headunit for Android Auto™" - originally created by Mike Reid.
 
-This headunit app can turn a Android 4.1+ tablet supporting USB Host mode into a basic Android Auto compatible headunit.
+The OpenHU Project (short for Open Head Unit) is an app that will bring Android Auto head unit functionality to existing AOSP-based devices.
 
-Current release is highly experimental. Some features, such as voice input and phone calls, are not yet supported.
+This application is offered without warranty. The maintainers are not responsible for how you use it. Driving is your responsibility, not ours. Always focus on driving, not a touchscreen.
 
-The Headunit app should only be used for testing at this time. Do not use while driving. You assume all responsibility.
+This app has not been approved or endorsed by Google. It uses open standards that underpin the Android Auto protocol. It requires an Android phone with the Android Auto application, available on the Google Play Store.
 
-MUCH more info and ask any question on my XDA thread: http://forum.xda-developers.com/general/paid-software/android-4-1-headunit-android-auto-t3125252/
-
-Latest June 16 Release #5 APK here: http://forum.xda-developers.com/showpost.php?p=61422602&postcount=163
-
-Android, Google Play, Google Maps, Google Play Music and Android Auto are trademarks of Google Inc.
+Android, the Open Handset Alliance, Google Play, Google Maps, Google Play Music and Android Auto are trademarks of Google Inc.
