@@ -1,0 +1,1 @@
+At this time we are attempting to negotiate a relicensing of this project from GPLv3 Affero to either GPLv2 or GPLv3. Do not, under any circumstances, submit a patch to this project unless/until you agree to license the code under both GPLv2 or GPLv3 (without Affero).
