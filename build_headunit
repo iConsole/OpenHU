@@ -1,3 +1,4 @@
+### TODO: This was very calibrated to the late Mike Reid's personal PC. We need to make this more generic and/or provide a guide for people to recreate setup.
 #!/bin/bash
 export MY_KEYSTORE_FILE="/home/mike/dev/key/headunit_key"
 export MY_KEYSTORE_PASS="password"
