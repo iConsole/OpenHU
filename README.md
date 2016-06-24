@@ -1,5 +1,4 @@
-# headunit
-OpenHU Project
+# OpenHU Project
 
 The OpenHU Project is a continuation of the original project "Headunit for Android Auto™" - originally created by Mike Reid.
 
